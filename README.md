@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manoj Poojary</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Spring-boot and Advance Data Structure and Algorithm**
+- 🌱 I’m currently learning **Advance Data Structure and Algorithm**
 
-- 💬 Ask me about **React, Java, MySQL, AWS**
+- 💬 Ask me about **Python, React, Java, MySQL, AWS**
 
 - 📫 How to reach me **manojlkrishna07@gmail.com**
 
